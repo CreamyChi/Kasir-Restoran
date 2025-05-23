@@ -7,7 +7,7 @@
     <title>Login</title>
 </head>
 <body>
-    <div class="Login">locale_get_display_name
+    <div class="Login">
         <h2>Login</h2>
         <h3>Enter your data</h3>
         <form class="Login-form">
