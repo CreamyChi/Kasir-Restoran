@@ -8,6 +8,7 @@
     <title>Dashboard</title>
 </head>
 <body>
+    import_request_variables
     <div class="sidebar">
         <a href="#" class="logo">
             <i class='bxr  bxs-fork-knife'></i> 
